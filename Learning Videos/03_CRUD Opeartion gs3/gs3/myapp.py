@@ -16,7 +16,7 @@ def get_data(id = None):
     print(data)
         
         
-# get_data()
+get_data()
 # get_data(2)
 
 
@@ -73,7 +73,7 @@ def update_data():
     print(data)
 
 
-update_data()
+# update_data()
 
 
 

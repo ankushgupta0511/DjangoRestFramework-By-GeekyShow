@@ -86,3 +86,14 @@ serializer = StudentSerializer(stu,many=True)
 
 
 
+
+# serializer type  1) regular serializers 2) Model serializer
+```
+
+// regular serializers
+this is not genrate automatic id
+
+// Model serializers
+this is  genrate automatic id  
+
+```
